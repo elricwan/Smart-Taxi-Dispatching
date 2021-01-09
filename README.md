@@ -1,4 +1,4 @@
-# Data-Incubator-project
+# Smart Taxi Dispatching
 This is the proposal for the project.
 
 
